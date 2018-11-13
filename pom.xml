@@ -40,7 +40,8 @@
 	</properties>
 
 	<modules>
-		
+		<module>venux-dubbo-springboot-provider</module>
+		<module>venux-dubbo-springboot-consumer</module>
 	</modules>
 
 	<dependencyManagement>
